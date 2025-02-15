@@ -30,5 +30,5 @@ async function addTokens() {
 
 };
 
-addTokens();
+addTokens(7000);
 alert("Coin dupe made by Giraffey27");
